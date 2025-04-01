@@ -1,0 +1,1 @@
+["^ ","~:members",["^ ","createCompressorInputStream",["~#set",[["^ ","~:flags",["^2",["~:method","~:public"]]]]],"createCompressorOutputStream",["^2",[["^ ","^3",["^2",["^4","^5"]]]]],"getInputStreamCompressorNames",["^2",[["^ ","^3",["^2",["^4","^5"]]]]],"getOutputStreamCompressorNames",["^2",[["^ ","^3",["^2",["^4","^5"]]]]]]]

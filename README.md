@@ -59,6 +59,9 @@ cd taste-of-clojure-exercises
 - [ClojureDocs](https://clojuredocs.org/)
 - [Calva Documentation](https://calva.io/)
 - [Learn Clojure in Your Browser](https://www.tryclj.com/)
+- [Join the Clojure Slack](https://join.slack.com/t/clojurians/shared_invite/zt-32yyqg07l-NEGiTedIHsVeOWinktYEKQ) ;; expires  on april 30 2025
+
+
 
 ---
 
